@@ -1,0 +1,16 @@
+# Entorno de desarrollo
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos comprimidos / temporales
+*.zip
+*.tar.gz
+*.rar
+*.log
